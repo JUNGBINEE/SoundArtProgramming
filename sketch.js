@@ -40,5 +40,5 @@ function deviceMoved(){
   //ampValue = accelerationX/2;
   ampValue = accelerationX*1000;   /////
   background(255, 255, 255);
-  Text(accelerationX/2, 10, 10);
+  text(accelerationX/2, 10, 10);
 }
