@@ -1,5 +1,3 @@
-//가속도 센서가 없어서 컴퓨터에서는 아무 반응이 없다.
-
 let r, g, b;
 function setup(){
   createCanvas(displayWidth, displayHeight);
